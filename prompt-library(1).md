@@ -3,7 +3,7 @@
 
 **Business field:** Healthcare Administration  
 **Organisation:** CareLink Medical Centre  
-**Organisation type:** Medical clinic / outpatient healthcare provider  
+**Organisation type:** Medical clinic  
 **Primary workflow:** Patient appointment scheduling and administrative follow-up  
 **Business objective:** Reduce repetitive administrative work, improve response consistency, reduce missed appointments, and improve patient experience.
 
@@ -708,44 +708,3 @@ High. Can support daily reception-team handovers and management reporting.
 - Recommendations should remain operational, not clinical.
 
 ---
-
-# Prompt Engineering Strategies Used
-
-The library deliberately uses several prompt-engineering strategies that improve reliability and make the prompts suitable for structured business automation:
-
-1. **Role prompting** — assigns the model a narrowly defined healthcare administration role.
-2. **Context framing** — explains the clinic workflow and business objective.
-3. **Explicit input variables** — separates source data from instructions.
-4. **Task decomposition** — breaks complex workflows into clear steps.
-5. **Constraint prompting** — defines what the AI must and must not do.
-6. **Structured output schemas** — uses JSON, labelled fields, or fixed sections.
-7. **Grounding** — requires answers to rely only on supplied data or approved knowledge.
-8. **Uncertainty handling** — prohibits guessing and requires escalation when information is missing.
-9. **Human-in-the-loop escalation** — routes exceptions, disputes, ambiguity, and clinical matters to staff.
-10. **Self-checking** — requires validation before final output.
-11. **Privacy-by-design** — minimises unnecessary sensitive information.
-12. **Responsible-AI boundaries** — prohibits diagnosis, treatment, or autonomous clinical decision-making.
-
-# Expected Business Value
-
-The prompt library is designed to improve:
-- response consistency
-- administrative turnaround time
-- appointment utilisation
-- waitlist efficiency
-- staff productivity
-- patient communication quality
-- traceability of administrative decisions
-
-Potential KPIs include:
-- average response time
-- percentage of appointment enquiries handled without manual drafting
-- no-show rate
-- rescheduling turnaround time
-- waitlist fill rate
-- administrative handling time per request
-- patient satisfaction score
-- percentage of AI outputs requiring correction
-- escalation accuracy
-
-> **Important:** A “90+ Prompt Lab score” cannot be guaranteed because scoring depends on the specific rubric, model, and test input. These prompts are intentionally designed around the characteristics commonly rewarded in prompt-quality evaluation: specificity, context, constraints, structured outputs, robustness, validation, and responsible-use controls.
