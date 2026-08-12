@@ -1,5 +1,4 @@
-# Prompt 6 — Cancellation Request Processor
-## RACE Framework Prompt
+# Prompt 6 — Cancellation Processor
 
 **Business:** CareLink Medical Centre  
 **Workflow:** Appointment cancellation
