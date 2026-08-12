@@ -1,5 +1,4 @@
 # Prompt 7 — Waitlist Slot Matching
-## RACE Framework Prompt
 
 **Business:** CareLink Medical Centre  
 **Workflow:** Waitlist management
