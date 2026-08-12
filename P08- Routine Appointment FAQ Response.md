@@ -1,5 +1,4 @@
-# Prompt 8 — Routine Appointment FAQ Response
-## RACE Framework Prompt
+# Prompt 8 — FAQ Responder
 
 **Business:** CareLink Medical Centre  
 **Workflow:** Routine administrative enquiries
