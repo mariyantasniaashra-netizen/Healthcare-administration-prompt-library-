@@ -2,9 +2,7 @@
 
 ## Overview
 
-This repository contains a 10-prompt AI Prompt Library for **CareLink Medical Centre**, designed to automate repetitive **patient appointment scheduling and administrative follow-up** tasks.
-
-The project was developed for an **AI in Business** assessment focused on applying prompt engineering to a real business workflow, demonstrating iterative prompt improvement, evaluating business value, and addressing responsible AI risks.
+This repository contains 10-prompts for **CareLink Medical Centre**, designed to automate repetitive **patient appointment scheduling and administrative follow-up** tasks.
 
 ---
 
@@ -12,7 +10,7 @@ The project was developed for an **AI in Business** assessment focused on applyi
 
 **Business field:** Healthcare Administration  
 **Organisation:** CareLink Medical Centre  
-**Organisation type:** Medical clinic / outpatient healthcare provider  
+**Organisation type:** Medical clinic 
 **Selected workflow:** Patient appointment scheduling and administrative follow-up  
 **Primary objective:** Reduce repetitive administration while improving patient communication and service efficiency.
 
@@ -28,7 +26,7 @@ Healthcare reception and administration teams frequently perform repetitive task
 - following up missed appointments
 - preparing daily administrative summaries
 
-These tasks are suitable for AI-assisted automation because they are repetitive, rules-based, text-heavy, and usually non-clinical.
+These tasks are suitable for automation because they are repetitive, rules-based, text-heavy, and usually non-clinical.
 
 ---
 
@@ -302,61 +300,3 @@ This provides evidence of iterative prompt engineering rather than one-stage pro
 
 ---
 
-## Suggested Management Pitch
-
-The core recommendation is to introduce the prompt library as a **controlled pilot** within appointment administration.
-
-A suitable implementation approach would be:
-
-1. begin with low-risk tasks such as information extraction, confirmations, reminders, and FAQs
-2. measure output accuracy and administrative time saved
-3. maintain human review during the pilot
-4. expand to rescheduling, cancellations, and waitlist support after validation
-5. review privacy, governance, and clinic policies before broader deployment
-
-The proposed solution should support staff rather than replace them.
-
----
-
-## Assessment Alignment
-
-This repository addresses the main assessment requirements by providing:
-
-- a clearly defined business field
-- a repetitive workflow suitable for automation
-- 10 structured prompts
-- the intended workflow for each prompt
-- the problem being solved
-- automation potential
-- risks and limitations
-- evidence of iterative improvement
-- responsible AI analysis
-- measurable business impact
-- material suitable for a consultancy-style management pitch
-
----
-
-## Note on Prompt Lab Scoring
-
-The prompts were designed to perform strongly against common prompt-quality criteria by using:
-- clear roles
-- explicit tasks
-- defined inputs
-- detailed constraints
-- predictable output formats
-- grounding
-- safety controls
-- human escalation
-- validation checks
-
-However, a specific **90+ score cannot be guaranteed** because Prompt Lab scores can vary depending on the rubric, model, test cases, and evaluation settings. The strongest submission approach is to run the prompts, capture the scores, and include evidence showing how later versions improved over earlier ones.
-
----
-
-## Author
-
-**Student:** [Your Name]  
-**Course:** AI in Business  
-**Assessment:** AI Prompt Library for Workflow Automation  
-**Business Field:** Healthcare Administration  
-**Business Name:** CareLink Medical Centre
