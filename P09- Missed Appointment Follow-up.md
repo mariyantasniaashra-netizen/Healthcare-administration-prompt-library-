@@ -1,5 +1,4 @@
 # Prompt 9 — Missed Appointment Follow-up
-## RACE Framework Prompt
 
 **Business:** CareLink Medical Centre  
 **Workflow:** No-show follow-up
