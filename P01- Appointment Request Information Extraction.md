@@ -1,9 +1,7 @@
-# Prompt 1 — Appointment Request Information Extraction
-## RACE Framework Prompt
+# Prompt 1 — Appointment Extraction
 
 **Business:** CareLink Medical Centre  
 **Workflow:** Patient appointment scheduling and administrative follow-up  
-**RACE:** Role → Action → Context → Expectation
 
 ### Intended workflow or task
 Extract booking information from an email, web form, chatbot message, or SMS.
