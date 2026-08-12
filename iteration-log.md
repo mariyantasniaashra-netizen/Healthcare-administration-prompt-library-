@@ -25,7 +25,7 @@ Each prompt was reviewed against the following criteria:
 
 ---
 
-# Iteration Example 1 — Appointment Information Extraction
+# Iteration Example 1 — Appointment Extraction
 
 ## Version 1
 **Initial prompt**
@@ -72,7 +72,7 @@ It converts a general summarisation task into a controlled extraction workflow t
 
 ---
 
-# Iteration Example 2 — Appointment Reminder
+# Iteration Example 2 — Reminder Generator
 
 ## Version 1
 **Initial prompt**
@@ -119,7 +119,7 @@ The prompt becomes operationally reliable and suitable for automatic triggering 
 
 ---
 
-# Iteration Example 3 — Rescheduling Requests
+# Iteration Example 3 — Rescheduling Processor
 
 ## Version 1
 **Initial prompt**
@@ -162,7 +162,7 @@ It supports partial automation without allowing the model to make unsafe schedul
 
 ---
 
-# Iteration Example 4 — Waitlist Matching
+# Iteration Example 4 — Waitlist Matcher
 
 ## Version 1
 **Initial prompt**
@@ -204,7 +204,7 @@ It introduces responsible-AI governance directly into the workflow instead of tr
 
 ---
 
-# Iteration Example 5 — FAQ Automation
+# Iteration Example 5 — FAQ Responder
 
 ## Version 1
 **Initial prompt**
