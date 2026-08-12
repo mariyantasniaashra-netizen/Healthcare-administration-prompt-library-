@@ -1,4 +1,4 @@
-# Prompt 7 — Waitlist Slot Matching
+# Prompt 7 — Waitlist Matcher
 
 **Business:** CareLink Medical Centre  
 **Workflow:** Waitlist management
