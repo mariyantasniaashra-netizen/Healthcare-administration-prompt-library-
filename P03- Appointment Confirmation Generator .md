@@ -1,5 +1,4 @@
-# Prompt 3 — Appointment Confirmation Generator
-## RACE Framework Prompt
+# Prompt 3 — Confirmation Generator
 
 **Business:** CareLink Medical Centre  
 **Workflow:** Booking confirmation
