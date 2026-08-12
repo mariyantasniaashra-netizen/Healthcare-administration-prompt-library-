@@ -53,16 +53,16 @@ The solution is a structured prompt library containing 10 reusable prompts.
 
 | # | Prompt | Workflow |
 |---|---|---|
-| 1 | Appointment Request Information Extraction | Convert unstructured patient requests into structured booking data |
-| 2 | Missing Booking Information Request | Ask only for information required to continue booking |
-| 3 | Appointment Confirmation Generator | Produce standardised booking confirmations |
-| 4 | Appointment Reminder Generator | Produce appointment reminders |
-| 5 | Rescheduling Request Processor | Match patient preferences with available slots |
-| 6 | Cancellation Request Processor | Process clear cancellation requests consistently |
-| 7 | Waitlist Slot Matching | Match cancelled slots to eligible waitlisted patients |
-| 8 | Routine Appointment FAQ Response | Answer common non-clinical administrative questions |
+| 1 | Appointment Extraction | Convert unstructured patient requests into structured booking data |
+| 2 | Missing Information Request | Ask only for information required to continue booking |
+| 3 | Confirmation Generator | Produce standardised booking confirmations |
+| 4 | Reminder Generator | Produce appointment reminders |
+| 5 | Rescheduling Processor | Match patient preferences with available slots |
+| 6 | Cancellation Processor | Process clear cancellation requests consistently |
+| 7 | Waitlist Matcher | Match cancelled slots to eligible waitlisted patients |
+| 8 | FAQ Responder | Answer common non-clinical administrative questions |
 | 9 | Missed Appointment Follow-up | Draft respectful no-show follow-up communication |
-| 10 | Daily Appointment Administration Summary | Summarise appointment operations and unresolved work |
+| 10 | Daily Administration Summary | Summarise appointment operations and unresolved work |
 
 ---
 
