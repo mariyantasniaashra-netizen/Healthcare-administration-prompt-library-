@@ -1,5 +1,4 @@
-# Prompt 4 — Appointment Reminder Generator
-## RACE Framework Prompt
+# Prompt 4 — Reminder Generator
 
 **Business:** CareLink Medical Centre  
 **Workflow:** Appointment reminders
