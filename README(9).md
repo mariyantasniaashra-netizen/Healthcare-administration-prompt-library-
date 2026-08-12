@@ -1,4 +1,4 @@
-# CareLink Medical Centre AI Prompt Library
+# CareLink Medical Centre Prompt Library
 
 ## Overview
 
