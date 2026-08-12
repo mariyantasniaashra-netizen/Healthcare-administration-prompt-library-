@@ -1,5 +1,4 @@
-# Prompt 5 — Rescheduling Request Processor
-## RACE Framework Prompt
+# Prompt 5 — Rescheduling Processor
 
 **Business:** CareLink Medical Centre  
 **Workflow:** Appointment rescheduling
