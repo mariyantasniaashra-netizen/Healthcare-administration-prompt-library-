@@ -1,5 +1,4 @@
-# Prompt 2 — Missing Booking Information Request
-## RACE Framework Prompt
+# Prompt 2 — Missing Information Request
 
 **Business:** CareLink Medical Centre  
 **Workflow:** Appointment follow-up
