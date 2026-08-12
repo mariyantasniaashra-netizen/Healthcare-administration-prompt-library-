@@ -1,5 +1,4 @@
-# Prompt 10 — Daily Appointment Administration Summary
-## RACE Framework Prompt
+# Prompt 10 — Daily Administration Summary
 
 **Business:** CareLink Medical Centre  
 **Workflow:** Daily administrative reporting
